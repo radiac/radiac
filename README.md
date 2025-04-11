@@ -5,6 +5,7 @@ See what I have in the pipeline in my [open source tasks](https://github.com/use
 I have quite a few projects on the go - my current top ten are:
 
 * [nanodjango](https://github.com/radiac/nanodjango) - run Django models and views from a single file, and convert it to a full project.
+* [django-style](https://github.com/radiac/django-style) - basic tasteful designs for your Django project
 * [Mara](https://github.com/radiac/mara) - an asynchronous event-based Python framework for building network services
 * [docker0s](https://github.com/radiac/docker0s) - use docker-compose to manage multiple containerised apps on a single host
 * [Django Tagulous](https://github.com/radiac/django-tagulous) - fabulous tagging for Django
